@@ -1,0 +1,18 @@
+/* style.css */
+
+.monochrome, .bright {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    
+}
+
+.monochrome {
+    color: white;
+    background-color: black;
+}
+
+
+.bright {
+    color: black;
+    background-color: rgb(255, 255, 0);
+}
